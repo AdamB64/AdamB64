@@ -1,5 +1,5 @@
 # My Github Profile:AdamB64
-# This is where i have most of my projects that i have made over my years in school or projects that i have made in my spare time
+<h2>This is where i have most of my projects that i have made over my years in school or projects that i have made in my spare time</h2>
 
 <!--
 **AdamB64/AdamB64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
