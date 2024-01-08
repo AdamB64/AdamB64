@@ -1,11 +1,10 @@
 # My Github Profile:AdamB64
-<h3>programming lanuages i know</h3>
+<h3>programming lanuages and frameworks i know</h3>
 <ul>
   <li>Python</li>
   <li>java</li>
-  <li>Html,css</li>
-  <li>javascript</li>
-  <li>react native</li>
+  <li>Html,css and javascript</li>
+  <li>react native and Jquery</li>
 </ul>
 <h3>programming lanuages or frameworks i am beginning to learn or looking into learning</h3>
 <ul>
