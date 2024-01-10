@@ -5,8 +5,11 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 ### Skills
 
 - **Python:** Developed basic terminal games and GUI interfaces for school assessments.<br>
+
 - **Java:** I started with java using it for learning how to program and now ive used it for creating a budget app using Android Studio using firebase API and also used the phones SQLite database for local storage.<br>
+
 - **Web Development (HTML, CSS, JavaScript):** Built a real-time chat website using Node.js and MongoDB with the using being able to make seprate private chatrooms with other users.<br>
+
 - **React Native and jQuery:** Experienced in mobile app development just with naviagtion and registering and logining fields.<br>
 <br>
 <ins>all these are in my repos as public archive since ill problably not come back to them agian.</ins>
