@@ -4,7 +4,7 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 
 ### Skills
 
-- **Python:** Developed basic terminal games and GUI interfaces for a budget appliaction school assessments.<br>
+- **Python:** Developed basic terminal games and GUI interfaces for a budget application school assessments.<br>
   
 - **Java:** Started with Java for learning programming and later used it to create a budget app using Android Studio with Firebase API. Also utilized the phone's SQLite database for local storage.<br>
 
@@ -21,11 +21,11 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 ### Past Projects
 
 - **Real-time Chat Website:** Utilized HTML, CSS, JavaScript, Node.js, and MongoDB.<br>
-  [the repositorie](https://github.com/AdamB64/realtime_chat)
+  [Repository](https://github.com/AdamB64/realtime_chat)
 - **Budget App:** Developed with Java using Android Studio.<br>
-  [the repositorie](https://github.com/AdamB64/Budget)
-- **Budget Application** A Budget application(made this one first it was bad look at the code if you want) made with python using guizero for the interface and openpyxl for the using excel files<br>
-   [the repositorie](https://github.com/AdamB64/graded-unit)
+  [Repository](https://github.com/AdamB64/Budget)
+- **Budget Application:** A Budget application (made this one first; it was bad; look at the code if you want) made with Python using guizero for the interface and openpyxl for using excel files<br>
+  [Repository](https://github.com/AdamB64/graded-unit)
 
 ### Learning Goals
 
