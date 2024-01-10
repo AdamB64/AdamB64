@@ -36,5 +36,5 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 <img align="center" style="margin-bottom: 1em" src="https://github-readme-stats.vercel.app/api?username=AdamB64&theme=slateorange&count_private=true&show_icons=true&include_all_commits=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamB64&theme=slateorange&layout=compact&langs_count=6" />
 </div>
-
+<br>
 Feel free to explore [my repositories](https://github.com/AdamB64?tab=repositories).💻
