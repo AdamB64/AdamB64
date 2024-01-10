@@ -4,10 +4,11 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 
 ### Skills
 
-- **Python:** Developed games and GUI interfaces for school assessments.
-- **Java:** Created a budget app using Android Studio.
-- **Web Development (HTML, CSS, JavaScript):** Built a real-time chat website using Node.js and MongoDB.
-- **React Native and jQuery:** Experienced in mobile app development.
+- **Python:** Developed basic terminal games and GUI interfaces for school assessments.
+- **Java:** I started with java using it for learning how to program and now ive used it for creating a budget app using Android Studio using firebase API and also used the phones SQLite database for local storage.
+- **Web Development (HTML, CSS, JavaScript):** Built a real-time chat website using Node.js and MongoDB with the using being able to make seprate private chatrooms with other users.
+- **React Native and jQuery:** Experienced in mobile app development just with naviagtion and registering and logining fields.
+  <u>all these are in my repos as public archive since ill problably not come back to them agian.<u>
 
 ### Current Project
 
@@ -20,6 +21,6 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 
 ### Learning Goals
 
-🔭 Once I'm done with the task website, I plan to explore C++ and eventually dive into Rust. Exciting times ahead!
+🔭 Once I'm done with the task website, I plan to explore C++ and eventually dive into Rust.
 
-Feel free to explore my repositories and connect with me. Let's code together! 💻
+Feel free to explore my repositories.💻
