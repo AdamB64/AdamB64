@@ -41,4 +41,3 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 <br>
 
 Feel free to explore [my repositories](https://github.com/AdamB64?tab=repositories).💻
-
