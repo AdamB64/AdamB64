@@ -17,6 +17,7 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 ### Current Project
 
 🌱 I'm currently diving into React and TypeScript, working on a task website with MongoDB. It's not just a project; it's my journey to mastering these technologies.
+[Repository](https://github.com/AdamB64/my-task-manager)
 
 ### Past Projects
 
