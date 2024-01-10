@@ -22,7 +22,8 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 
 - **Real-time Chat Website:** Utilized HTML, CSS, JavaScript, Node.js, and MongoDB.<br>
   [Repository](https://github.com/AdamB64/realtime_chat)
-- **Budget App:** Developed with Java using Android Studio.<br>
+- **Budget App:** Developed with Java using
+  Android Studio.<br>
   [Repository](https://github.com/AdamB64/Budget)
 - **Budget Application:** A Budget application (made this one first; it was bad; look at the code if you want) made with Python using guizero for the interface and openpyxl for using excel files<br>
   [Repository](https://github.com/AdamB64/graded-unit)
