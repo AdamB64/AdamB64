@@ -24,4 +24,7 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 
 🔭 Once I'm done with the task website, I plan to explore C++ and eventually dive into Rust.
 
+###Stats
+[![AdamB64's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamB64)](https://github.com/anuraghazra/github-readme-stats)
+
 Feel free to explore my [my repositories](https://github.com/AdamB64?tab=repositories).💻
