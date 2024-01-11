@@ -17,17 +17,17 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 ### Current Project
 
 🌱 I'm currently diving into React and TypeScript, working on a task website with MongoDB. It's not just a project; it's my journey to mastering these technologies.<br>
-[Repository](https://github.com/AdamB64/my-task-manager)
+[The Repository](https://github.com/AdamB64/my-task-manager)
 
 ### Past Projects
 
 - **Real-time Chat Website:** Utilized HTML, CSS, JavaScript, Node.js, and MongoDB.<br>
-  [Repository](https://github.com/AdamB64/realtime_chat)
+  [The Repository](https://github.com/AdamB64/realtime_chat)
 - **Budget App:** Developed with Java using
   Android Studio.<br>
-  [Repository](https://github.com/AdamB64/Budget)
+  [The Repository](https://github.com/AdamB64/Budget)
 - **Budget Application:** A Budget application (made this one first; it was bad; look at the code if you want) made with Python using guizero for the interface and openpyxl for using excel files<br>
-  [Repository](https://github.com/AdamB64/graded-unit)
+  [The Repository](https://github.com/AdamB64/graded-unit)
 
 ### Learning Goals
 
