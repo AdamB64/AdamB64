@@ -10,7 +10,7 @@ Hey there! I'm AdamB64, a passionate programmer always looking for new challenge
 
 - **Web Development (HTML, CSS, JavaScript):** Built a real-time chat website using Node.js and MongoDB, allowing users to create separate private chatrooms.<br>
 
-- **React Native and jQuery:** Experienced in mobile app development, focusing on navigation, registration, and login fields.
+- **React Native and jQuery:** I have made some things in mobile app development, focusing on navigation, registration, and login fields.
 
 <ins>All these are in my repos as public archives since I'll probably not come back to them again.</ins>
 
