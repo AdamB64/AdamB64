@@ -1,6 +1,6 @@
 ## About Me
 
-Hey there! I'm AdamB64, a passionate programmer always looking for new challenges. I've spent my school years building games, GUI interfaces in Python, and even ventured into mobile app development with Java.
+Hey there! I'm Adam, a passionate programmer always looking for new challenges. I've spent my school years building games, GUI interfaces in Python, and even ventured into mobile app development with Java.
 
 ### Skills
 
