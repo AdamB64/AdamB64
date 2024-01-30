@@ -28,7 +28,7 @@ Hey there! I'm Adam, a passionate programmer always looking for new challenges. 
   [The Repository](https://github.com/AdamB64/Budget)
 - **Budget Application:** A Budget application (made this one first; it was bad; look at the code if you want) made with Python using guizero for the interface and openpyxl for using excel files<br>
   [The Repository](https://github.com/AdamB64/graded-unit)
-
+https://www.linkedin.com/in/adam-buchan-a894662b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ### Learning Goals
 
 🔭 Once I'm done with the task website, I plan to explore C++ and eventually dive into Rust.
