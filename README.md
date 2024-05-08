@@ -8,7 +8,7 @@ I'm Adam, a passionate programmer always looking for new challenges. I've spent 
   
 - **Java:** Started with Java for learning programming and later used it to create a budget app using Android Studio with Firebase API. Also utilized the phone's SQLite database for local storage.<br>
 
-- **Web Development (HTML, CSS, JavaScript amd node):** Built a real-time chat website using Node.js and MongoDB, allowing users to create separate private chatrooms.<br>
+- **Web Development (HTML, CSS, JavaScript and node):** Built a real-time chat website using Node.js and MongoDB, allowing users to create separate private chatrooms.<br>
 
 - **React Native and jQuery:** I have made some things in mobile app development, focusing on navigation, registration, and login fields.
 
