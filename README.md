@@ -15,7 +15,6 @@ I'm Adam, a passionate programmer always looking for new challenges. I've spent 
   - Collectible swords with unique effects depending on the type of sword.
   - Adjustable difficulty settings that increase or decrease enemy health and damage scaling.
   - Fully designed HUD, UI screens, and in-game scene transitions.<br>
-  [The Repository](https://github.com/AdamB64/hit_em_back)
 
 <ins>All these are in my repos as public archives since I'll probably not come back to them again.</ins>
 
